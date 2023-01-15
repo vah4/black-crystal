@@ -1,0 +1,4 @@
+D:\cpp\black_crystal\black_crystal\black_crystal\x64\Debug\black_crystal.vcxproj.AssemblyReference.cache
+D:\cpp\black_crystal\black_crystal\black_crystal\x64\Debug\black_crystal.vcxproj.SuggestedBindingRedirects.cache
+D:\cpp\black_crystal\black_crystal\black_crystal\x64\Debug\blackcrystal.MyForm.resources
+D:\cpp\black_crystal\black_crystal\black_crystal\x64\Debug\black_crystal.vcxproj.GenerateResource.cache
